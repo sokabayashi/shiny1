@@ -1,0 +1,9 @@
+name: testshiny
+account: sokabayashi
+server: shinyapps.io
+appId: 93884
+bundleId: 417364
+url: https://sokabayashi.shinyapps.io/testshiny/
+when: 1460473867.63507
+asMultiple: FALSE
+asStatic: FALSE
